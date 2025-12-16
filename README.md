@@ -86,35 +86,37 @@
 ```
 # 🛠️ 기술 스택 (Tech Stack)
 
-Language: C#
+| 구분 | 상세 내용 |
+| :--- | :--- |
+| **Language** | C# |
+| **Framework** | .NET Framework |
+| **UI Platform** | Windows Forms (WinForms) |
+| **DBMS** | MySQL |
 
-Framework: .NET Framework
+<br>
 
-UI Platform: Windows Forms
-
-DBMS : MySQL
-
-
-# 순서도
+# 🔄 순서도 (Flowchart)
 
 ![순서도](./picture/순서도.png)
 
+<br>
 
-# 테이블 구조
-## EER다이어그램
+# 🗄️ 데이터베이스 구조 (Database Schema)
+
+## 🗺️ EER 다이어그램
 ![EER](./picture/eer.png)
-## 🧑‍💻 Users 테이블 구조
-![유저 데이터](./picture/user.png)
-## 📺 Subscriptions 테이블 구조
-![구독 데이터](./picture/subscription.png)
-## 📝 Posts (게시글 정보) 테이블 구조(썸네일 픽쳐 추가 예정)
-![게시글 데이터](./picture/post.png)
-## 💬 Comments (댓글 정보) 테이블 구조
-![댓글 데이터](./picture/comment.png)
-## 🎶 Music (음악 정보) 테이블 구조
-![음악 데이터](./picture/music.png)
-## ⭐ Favorites (즐겨찾기) 테이블 구조
-![즐찾 데이터](./picture/favorite.png) 
+
+<br>
+
+## 📝 테이블 상세 (Table Details)
+
+| **🧑‍💻 Users (사용자)** | **📺 Subscriptions (구독)** |
+| :---: | :---: |
+| ![유저 데이터](./picture/user.png) | ![구독 데이터](./picture/subscription.png) |
+| **📝 Posts (게시글)** | **💬 Comments (댓글)** |
+| ![게시글 데이터](./picture/post.png) | ![댓글 데이터](./picture/comment.png) |
+| **🎶 Music (음악)** | **⭐ Favorites (즐겨찾기)** |
+| ![음악 데이터](./picture/music.png) | ![즐찾 데이터](./picture/favorite.png) |
 
 # 시연 영상
 [![시연 영상 썸네일](./picture/main.png)](https://youtu.be/nmizB-60_aw)
